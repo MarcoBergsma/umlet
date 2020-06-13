@@ -269,10 +269,10 @@ public class DiagramFileHandler {
 				spf.setFeature("http://xml.org/sax/features/external-parameter-entities", false);
 			}
 			SAXParser parser = spf.newSAXParser();
-			FileInputStream input = new FileInputStream(file);
-			InputHandler xmlhandler = new InputHandler(handler);
-			parser.parse(input, xmlhandler);
-			input.close();
+			try (FileInputStream input = new FileInputStream(file)) {
+				InputHandler xmlhandler = new InputHandler(handler);
+				parser.parse(input, xmlhandler);
+			}
 		} catch (Exception e) {
 			log.error("Cannot open the file: " + file.getAbsolutePath(), e);
 		}

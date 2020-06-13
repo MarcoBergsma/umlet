@@ -65,3 +65,5 @@ k
 .travis.yml,d\e\dea01dd89a3b602828e630677fde5d77c06441c8
 ~
 Numlet-swing/src/test/java/com/baselet/generator/ClassDiagramConverterTest.java,5\0\508d6a7b6a3863b8378ea32d6729213268cc5ea3
+z
+Jumlet-swing/src/main/java/com/baselet/control/util/RunningFileChecker.java,c\5\c52875d6691fca73f877b1f3f5c2781913af7fa4

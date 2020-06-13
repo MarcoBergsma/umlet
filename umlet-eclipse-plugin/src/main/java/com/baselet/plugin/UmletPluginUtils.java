@@ -66,11 +66,11 @@ public class UmletPluginUtils {
 	public static IContainer getCompilationUnitParent(ICompilationUnit compilationUnit) {
 		IResource javaResource = compilationUnit.getResource();
 		if (javaResource == null) {
-			return null;
+			throw new NullPointerException("javaResource cannot be null");
 		}
 		final IContainer parent = javaResource.getParent();
 		if (parent == null) {
-			return null;
+			throw new NullPointerException("parent cannot be null");
 		}
 		return parent;
 	}
@@ -213,7 +213,7 @@ public class UmletPluginUtils {
 
 	public static IPackageFragmentRoot getPackageFragmentRoot(IJavaElement element) {
 		if (element == null) {
-			return null;
+			throw new NullPointerException("IJavaElement cannot be null");
 		}
 		if (element instanceof IPackageFragmentRoot) {
 			return (IPackageFragmentRoot) element;

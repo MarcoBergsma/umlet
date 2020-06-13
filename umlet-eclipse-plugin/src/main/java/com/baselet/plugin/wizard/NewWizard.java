@@ -75,7 +75,7 @@ public class NewWizard extends Wizard implements INewWizard {
 	 * using wizard as execution context.
 	 */
 	@Override
-	public boolean performFinish() {
+	public boolean performFinish() throws InterruptedException {
 		final String containerName = page.getContainerName();
 		String fn = page.getFileName();
 		int dotLoc = fn.lastIndexOf('.');
@@ -99,6 +99,7 @@ public class NewWizard extends Wizard implements INewWizard {
 			getContainer().run(true, false, op);
 		} catch (InterruptedException e) {
 			return false;
+			throw new InterruptedException(e.getMessage());
 		} catch (InvocationTargetException e) {
 			Throwable realException = e.getTargetException();
 			MessageDialog.openError(getShell(), "Error", realException.getMessage());

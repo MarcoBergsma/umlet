@@ -36,9 +36,9 @@ public class FileClassLoader extends ClassLoader {
 		File f = new File(Path.temp() + className + ".class");
 		byte[] buff = new byte[(int) f.length()];
 		FileInputStream fis = new FileInputStream(f);
-		DataInputStream dis = new DataInputStream(fis);
-		dis.readFully(buff);
-		dis.close();
+		try (DataInputStream dis = new DataInputStream(fis)) {
+			dis.readFully(buff);
+		}
 		f.deleteOnExit();
 		return buff;
 	}

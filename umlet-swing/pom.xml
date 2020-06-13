@@ -164,7 +164,7 @@
 					</archive>
 				</configuration>
 			</plugin>
-			<!-- Unpack the resources, required since the standalone application expects 
+			<!-- Unpack the resources, required since the standalone application expects
 				the resources to be placed in the build (target) directory -->
 			<plugin>
 				<artifactId>maven-dependency-plugin</artifactId>
@@ -187,7 +187,14 @@
 						</configuration>
 					</execution>
 				</executions>
-			</plugin>
-		</plugins>
+			</plugin><plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>7</source>
+                <target>7</target>
+            </configuration>
+        </plugin>
+        </plugins>
 	</build>
 </project>
