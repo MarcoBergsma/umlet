@@ -2,5 +2,5 @@ language: java
 jdk:
   - openjdk8
   - openjdk11
-script: "mvn clean install -P checks"
+script: "mvn clean install"
 
