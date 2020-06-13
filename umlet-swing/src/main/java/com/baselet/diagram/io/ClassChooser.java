@@ -61,7 +61,7 @@ public class ClassChooser {
 		return fileNames;
 	}
 
-	private static void searchRecursively(File file, List<String> fileNames) {
+	public static void searchRecursively(File file, List<String> fileNames) {
 		if (Pattern.matches(ALLOWED_EXTENSIONS, file.getName())) {
 			fileNames.add(file.getAbsolutePath());
 		}
