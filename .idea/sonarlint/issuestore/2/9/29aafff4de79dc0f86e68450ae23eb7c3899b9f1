@@ -1,0 +1,11 @@
+
+ˆsquid:S1488›"kImmediately return this expression instead of assigning it to the temporary variable "selectedFileWithExt".(â•€şøÿÿÿÿ
+=squid:S1170G"!Make this final field static too.(™ƒÓÁúÿÿÿÿ
+wsquid:S4435õ"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(£ƒìÊüÿÿÿÿ
+^squid:HiddenFieldCheckë"<Rename "fileName" which hides the field declared at line 54.(ĞÔ&
+8squid:S1170F"!Make this final field static too.(‡Ç
+gsquid:S3027‡"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(üÅ—£ûÿÿÿÿ
+hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.( Ê¿öüÿÿÿÿ
+hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ôà¦ïûÿÿÿÿ
+ˆsquid:S1488Š"pImmediately return this expression instead of assigning it to the temporary variable "filenameWithoutExtension".(âçñÁ
+esquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(›¾Îº

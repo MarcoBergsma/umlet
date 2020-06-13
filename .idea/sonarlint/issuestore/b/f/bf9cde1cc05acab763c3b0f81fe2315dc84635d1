@@ -1,0 +1,14 @@
+
+Rsquid:S1141Î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Fsquid:S1066n"/Merge this if statement with the enclosing one.(†°‚Ó
+@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+;squid:S1148¬"#Use a logger to log this exception.(Ç’Çê
+`squid:S1192P"IDefine a constant instead of duplicating this literal "(/|\\\\)" 3 times.(ºÆ¡»
+P
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(”“î€
+Csquid:S1659‰"&Declare "realPath" on a separate line.(¦¹Õñıÿÿÿÿ
+@squid:S1148½"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Csquid:S1075"&Remove this hard-coded path-delimiter.(£©èıÿÿÿÿ
+isquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(È±†
+Xsquid:S3457Z"AFormat specifiers should be used instead of string concatenation.(óŞ—£

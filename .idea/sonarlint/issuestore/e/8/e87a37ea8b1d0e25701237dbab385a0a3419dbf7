@@ -1,0 +1,25 @@
+
+]squid:S2184Í"ECast one of the operands of this subtraction operation to a "double".(ß‘˜í
+Esquid:S19484".Make "gridElements" transient or serializable.(ú†½á
+[squid:S1155‘">Use isEmpty() to check whether the collection is empty or not.(Õ”´üÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(Š¯€Õüÿÿÿÿ
+Tsquid:S2629Œ"7Use the built-in formatting to construct this argument.(ì·†ûÿÿÿÿ
+Asquid:S19481"*Make "selector" transient or serializable.(¤‚Ö
+@squid:S19482")Make "handler" transient or serializable.(×ñ¨¿
+_squid:S1126"BReplace this if-then-else statement by a single method invocation.(°¡ùÿÿÿÿ
+]squid:S2184"ECast one of the operands of this subtraction operation to a "double".(êÖâÈ
+>squid:S1481d"'Remove this unused "fd" local variable.(ÉÒ£ú
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Ì¨®Ãûÿÿÿÿ
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(“¿ûæ
+_squid:S1126÷"BReplace this if-then-else statement by a single method invocation.(Ê‚Œ«ÿÿÿÿÿ
+osquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ã å“ûÿÿÿÿ
+Nsquid:S2629ƒ"7Use the built-in formatting to construct this argument.(ËÌào
+gsquid:S001160"ORename this field "_scr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ì«„
+]squid:S2184Í"ECast one of the operands of this subtraction operation to a "double".(ß‘˜í
+Ysquid:S3457›"AFormat specifiers should be used instead of string concatenation.(ã§Ş­
+Osquid:S2629›"7Use the built-in formatting to construct this argument.(ã§Ş­
+Xsquid:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(ËÌào
+]squid:S2184"ECast one of the operands of this subtraction operation to a "double".(êÖâÈ
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(ï†˜™
+^squid:S3457Œ"AFormat specifiers should be used instead of string concatenation.(ì·†ûÿÿÿÿ
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ÿ®­Ìøÿÿÿÿ

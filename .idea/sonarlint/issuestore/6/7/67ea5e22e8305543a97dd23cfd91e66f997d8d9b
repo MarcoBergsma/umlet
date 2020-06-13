@@ -1,0 +1,13 @@
+
+asquid:S2184Ÿ"DCast one of the operands of this subtraction operation to a "float".(×çÑ·þÿÿÿÿ
+asquid:S2184 "DCast one of the operands of this subtraction operation to a "float".(ÎñŠÌüÿÿÿÿ
+asquid:S3027ý"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ú Øc
+Osquid:S2629¬"7Use the built-in formatting to construct this argument.(Ù¿ªã
+ysquid:S2629­"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ï¹‡âûÿÿÿÿ
+;squid:S1659§"#Declare "diffy" on a separate line.(ÐÊÓ´
+hsquid:CallToDeprecatedMethod6";Remove this use of "OldRelationListener"; it is deprecated.(›«—¹ûÿÿÿÿ
+isquid:CallToDeprecatedMethod‰";Remove this use of "OldRelationListener"; it is deprecated.(»àšÔþÿÿÿÿ
+}squid:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ïÐòò
+Ysquid:S3457¬"AFormat specifiers should be used instead of string concatenation.(Ù¿ªã
+^squid:S3457­"AFormat specifiers should be used instead of string concatenation.(Ï¹‡âûÿÿÿÿ
+Vsquid:S1155õ">Use isEmpty() to check whether the collection is empty or not.(¤ýá×

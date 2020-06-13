@@ -1,0 +1,38 @@
+
+lsquid:S00100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿œóûÿÿÿÿ
+wsquid:S00116."_Rename this field "right_split_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¾¸¨
+lsquid:S00100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀüÊˆøÿÿÿÿ
+lsquid:S00100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¶ôüÿÿÿÿ
+lsquid:S00100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÓ¦úúÿÿÿÿ
+fsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ók
+osquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÓ¦úúÿÿÿÿ
+Xsquid:S3457l"AFormat specifiers should be used instead of string concatenation.(’ÍóÅ
+gsquid:S00100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îö¶‡
+lsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ”Ê–üÿÿÿÿ
+gsquid:S00100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ôè©
+ssquid:S00116+"[Rename this field "program_location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¤Ë¨
+vsquid:S00116-"^Rename this field "mail_split_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢¦ú
+nsquid:S00116,"WRename this field "program_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¯è
+jsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õŞ™
+lsquid:S001161"TRename this field "show_grid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®÷«é
+osquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®°¥ûÿÿÿÿ
+osquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÃÆ›ÿÿÿÿÿ
+Ssquid:S2629X"7Use the built-in formatting to construct this argument.(…²©©ûÿÿÿÿ
+lsquid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®°¥ûÿÿÿÿ
+lsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÃÆ›ÿÿÿÿÿ
+xsquid:S001160"aRename this field "enable_custom_elements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò°Z
+lsquid:S00100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¡€Øüÿÿÿÿ
+osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ò€¢ûÿÿÿÿ
+wsquid:S001162"ZRename this field "start_maximized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÔÓùÿÿÿÿ
+jsquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ôè©
+gsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õŞ™
+lsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ò€¢ûÿÿÿÿ
+lsquid:S00100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìº‹ªÿÿÿÿÿ
+gsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÀ÷‚
+]squid:S3457X"AFormat specifiers should be used instead of string concatenation.(…²©©ûÿÿÿÿ
+osquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¶ôüÿÿÿÿ
+{squid:S00116/"^Rename this field "main_split_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¾øÊøÿÿÿÿ
+jsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÀ÷‚
+Nsquid:S2629l"7Use the built-in formatting to construct this argument.(’ÍóÅ
+ysquid:S00116"\Rename this field "DEFAULT_FILE_HOME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½€Øÿÿÿÿÿ
+lsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Êª¨øÿÿÿÿ

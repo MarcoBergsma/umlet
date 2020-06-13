@@ -1,0 +1,6 @@
+
+Esquid:S2786")Remove this redundant "static" qualifier.(îĞ¡ùıÿÿÿÿ
+Ysquid:S1126Ò"AReplace this if-then-else statement by a single return statement.(Ç—œ
+ysquid:S1845F"]Rename field "red" to prevent any misunderstanding/clash with field "RED" defined on line 26.(ÄŸçÿÿÿÿÿ
+xsquid:S1845G"aRename field "green" to prevent any misunderstanding/clash with field "GREEN" defined on line 27.(ÏŒìÒ
+{squid:S1845H"_Rename field "blue" to prevent any misunderstanding/clash with field "BLUE" defined on line 28.(Òå‹­üÿÿÿÿ

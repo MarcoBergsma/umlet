@@ -1,0 +1,16 @@
+
+3squid:S1643q"Use a StringBuilder instead.(®Æ´ß
+©%squid:RedundantThrowsDeclarationCheckh"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ûñ€“
+ysquid:S3008 "]Rename this field "TEST_FILE_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ»©ƒûÿÿÿÿ
+dsquid:S2095t"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(›±°Ôùÿÿÿÿ
+_squid:S2095i"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Üçè¾
+zsquid:S1488…"bImmediately return this expression instead of assigning it to the temporary variable "outputFile".(õüÖâ
+fsquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÔõô
+fsquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„™’
+esquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿Ó
+ksquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ö©œùÿÿÿÿ
+^squid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.(ıÔõô
+^squid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(„™’
+]squid:S00112;"FDefine and throw a dedicated exception instead of using a generic one.(ê¿Ó
+csquid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(‘Ö©œùÿÿÿÿ
+_squid:S1858="C"getParent" returns a string, there's no need to call "toString()".(“±ÓÀùÿÿÿÿ
